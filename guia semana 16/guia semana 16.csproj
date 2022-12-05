@@ -5,4 +5,8 @@
     <RootNamespace>guia_semana_16</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.31" />
+  </ItemGroup>
+
 </Project>
